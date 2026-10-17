@@ -6,7 +6,7 @@ I'm a final-year B.Tech student passionate about building practical AI solutions
 
 I enjoy turning ideas into working applications and exploring how AI can solve real-world problems.
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - 🤖 Generative AI applications and LLM-powered assistants
 - 🧠 Machine Learning and Deep Learning projects
@@ -21,7 +21,7 @@ I enjoy turning ideas into working applications and exploring how AI can solve r
 **Generative AI:** LLMs, Prompt Engineering, RAG  
 **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **AI Resume Analyzer** — Python-based resume parsing and analysis.
 - **Local LLM Assistant** — An application exploring locally running language models.
