@@ -1,16 +1,29 @@
-## Hi there 👋
-## 🔭
-<!--
-**Vinuthsai/vinuthsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vinuth Sai 👋
 
-Here are some ideas to get you started:
+### Aspiring AI/ML Engineer | Generative AI | Python
 
-## 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a final-year B.Tech student passionate about building practical AI solutions using Machine Learning, Deep Learning, and Large Language Models.
+
+I enjoy turning ideas into working applications and exploring how AI can solve real-world problems.
+
+## 🚀 What I'm Working On
+
+- 🤖 Generative AI applications and LLM-powered assistants
+- 🧠 Machine Learning and Deep Learning projects
+- 📄 AI-powered resume analysis and document processing
+- 🔬 Exploring research-driven AI projects
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, C++  
+**AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision  
+**Libraries:** NumPy, Pandas, Scikit-learn, PyTorch  
+**Generative AI:** LLMs, Prompt Engineering, RAG  
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+## 📌 Featured Projects
+
+- **AI Resume Analyzer** — Python-based resume parsing and analysis.
+- **Local LLM Assistant** — An application exploring locally running language models.
+
+*Always learning. Always building.* 🚀
