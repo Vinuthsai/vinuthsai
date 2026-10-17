@@ -99,14 +99,3 @@ Developing practical AI solutions focused on automation, intelligent assistance,
   <img src="https://streak-stats.demolab.com?user=https://github.com/vinuthsai&theme=github-dark-blue&hide_border=true" />
 </p>
 
-
-##                                           ##  🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
-
-<p align="center">
-  <i>Learning continuously. Building consistently. Creating with AI. 🚀</i>
-</p>
