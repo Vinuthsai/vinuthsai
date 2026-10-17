@@ -99,18 +99,8 @@ Developing practical AI solutions focused on automation, intelligent assistance,
   <img src="https://streak-stats.demolab.com?user=https://github.com/vinuthsai&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 🎯 Current Goals
 
-- Strengthen DSA and problem-solving skills
-- Build practical Machine Learning and GenAI projects
-- Learn model deployment and MLOps fundamentals
-- Contribute to open-source projects
-- Grow as an AI/ML Engineer
-
----
-
-## 🤝 Connect With Me
-
+##                                           ##  🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/">LinkedIn</a> •
   <a href="https://github.com/">GitHub</a> •
